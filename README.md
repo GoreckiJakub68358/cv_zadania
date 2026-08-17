@@ -33,6 +33,9 @@ Każdy folder (`zad4`, `zad5`, `zad6`, `zad7`, `zad8`) reprezentuje stan projekt
 - Zadanie 8:
 👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad8/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad8/index.html)
 
+### 🔴 Link do testu backendu Formspree
+👉 [https://formspree.io/forms/mgopkqer/submissions](https://formspree.io/forms/mgopkqer/submissions)
+
 ## ✅ Zrealizowane zadania
 
 ### 🔹 Zadanie 1-2 - Struktura HTML5 i stylowanie CSS3 (RWD)
