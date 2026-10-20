@@ -92,6 +92,9 @@ Każdy folder (`zad4`, `zad5`, `zad6`, `zad7`, `zad8`) reprezentuje stan projekt
 
 ```text
 /
+├── zad1/      # Katalog dla zadania 1
+├── zad2/      # Katalog dla zadania 2
+├── zad3/      # Katalog dla zadania 3
 ├── zad4/      # Katalog dla zadania 4
 ├── zad5/      # Katalog dla zadania 5
 ├── zad6/      # Katalog dla zadania 6
