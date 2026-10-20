@@ -12,26 +12,35 @@ Każdy folder (`zad4`, `zad5`, `zad6`, `zad7`, `zad8`) reprezentuje stan projekt
 
 ## 🔗 Linki:
 - 📁 Repozytorium:
-👉 [https://github.com/GoreckiJakub68358/zad4-8_javascript-zadania](https://github.com/GoreckiJakub68358/zad4-8_javascript-zadania)
+👉 [https://github.com/GoreckiJakub68358/cv_zadania](https://github.com/GoreckiJakub68358/cv_zadania)
 - 🌐 **GitHub Pages:**
-👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/)
+👉 [https://goreckijakub68358.github.io/cv_zadania](https://goreckijakub68358.github.io/cv_zadania)
 
 ### 🔗 Linki do zadań:
 
+- Zadanie 1:
+👉 [https://goreckijakub68358.github.io/cv_zadania/zad1/index.html](https://goreckijakub68358.github.io/cv_zadania/zad1/index.html)
+
+- Zadanie 2:
+👉 [https://goreckijakub68358.github.io/cv_zadania/zad2/index.html](https://goreckijakub68358.github.io/cv_zadania/zad2/index.html)
+
+- Zadanie 3:
+👉 [https://goreckijakub68358.github.io/cv_zadania/zad3/index.html](https://goreckijakub68358.github.io/cv_zadania/zad3/index.html)
+
 - Zadanie 4:
-👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad4/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad4/index.html)
+👉 [https://goreckijakub68358.github.io/cv_zadania/zad4/index.html](https://goreckijakub68358.github.io/cv_zadania/zad4/index.html)
 
 - Zadanie 5:
-👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad5/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad5/index.html)
+👉 [https://goreckijakub68358.github.io/cv_zadania/zad5/index.html](https://goreckijakub68358.github.io/cv_zadania/zad5/index.html)
 
 - Zadanie 6:
-👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad6/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad6/index.html)
+👉 [https://goreckijakub68358.github.io/cv_zadania/zad6/index.html](https://goreckijakub68358.github.io/cv_zadania/zad6/index.html)
 
 - Zadanie 7:
-👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad7/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad7/index.html)
+👉 [https://goreckijakub68358.github.io/cv_zadania/zad7/index.html](https://goreckijakub68358.github.io/cv_zadania/zad7/index.html)
 
 - Zadanie 8:
-👉 [https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad8/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad8/index.html)
+👉 [https://goreckijakub68358.github.io/cv_zadania/zad8/index.html](https://goreckijakub68358.github.io/cv_zadania/zad8/index.html)
 
 ### 🔴 Link do testu backendu Formspree
 👉 [https://formspree.io/forms/mgopkqer/submissions](https://formspree.io/forms/mgopkqer/submissions)
