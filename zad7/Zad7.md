@@ -2,15 +2,7 @@
 
 > - **Zadanie 7:** Local Storage   
 >  - **Przedmiot:** Projektowanie multimedialnych stron internetowych  
-> - **Uczelnia:** Akademia Finansów i Biznesu Vistula  
-> - **Numer indeksu:** 68358
-
-## # CV - Jakub Górecki (Zadanie 8)
-
-> - **Zadanie 8:** Backend
->  - **Przedmiot:** Projektowanie multimedialnych stron internetowych  
-> - **Uczelnia:** Akademia Finansów i Biznesu Vistula  
-> - **Numer indeksu:** 68358
+> - **Uczelnia:** Akademia Finansów i Biznesu Vistula
 
 ## 🔗 Linki
 
@@ -22,10 +14,7 @@
 
 ## 📋 Opis zadania
 
-Celem zadania jest wprowadzenie do komunikacji frontendu z serwerem i zapisu danych poza
-przeglądarką.
-
-
+Celem zadania jest implementacja zapisu danych w pamięci lokalnej przeglądarki za pomocą `localStorage`.
 
 ## ✅ Wymagania techniczne (Zadanie 7)
 
@@ -53,13 +42,7 @@ przeglądarką.
 - Zaimplementowano asynchroniczną wysyłkę formularza (metoda `POST`) przy użyciu `fetch` i `FormData`.
 
 ### v6.2 - Dodanie potwierdzenia wysylki danych z serwera
-- Wdrożenie potwierdzenia dostarczenia wysyłanych danych.Linki
-
-- 📁 **Repozytorium projektowe:** 
-[https://github.com/GoreckiJakub68358/zad4-8_javascript_projekt](https://github.com/GoreckiJakub68358/zad4-8_javascript_projekt)
-
-- 🌐 **GitHub Pages:** 
-[https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad7/index.html](https://goreckijakub68358.github.io/zad4-8_javascript-zadania/zad7/index.html)
+- Wdrożenie potwierdzenia dostarczenia wysyłanych danych.
 
 ## 📋 Opis zadania
 
