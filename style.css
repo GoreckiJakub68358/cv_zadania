@@ -36,8 +36,8 @@ h1 {
 
 .link {
 
-    width: 300px;
-    max-width: 400px; /* nie przekroczy 400px */
+    width: 400px;
+    max-width: 500px; /* nie przekroczy 500px */
     text-align: center;
     background-color: #026cd6;
     color: #fff;
