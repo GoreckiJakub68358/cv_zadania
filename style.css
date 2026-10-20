@@ -23,7 +23,7 @@ p { color: #888;}
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 60vh;
+    height: 70vh;
     flex-direction: column;
     border: 1px solid #026cd6;
     border-radius: 20px;
@@ -36,7 +36,7 @@ h1 {
 
 .link {
 
-    width: 600px;
+    width: 550px;
     text-align: center;
     background-color: #026cd6;
     color: #fff;
